@@ -6,7 +6,7 @@ This mod fixes various Hungarian text issues in Spore.
 
 ## Not compatible with:
 
-* [Spore_HUN_Money_Fix]
+* [Spore_HUN_Money_Fix](https://github.com/Gemini-HUN/Spore_HUN_Money_Fix)
 
 If you want both fixes, use **Spore_HUN_Money_Fix** instead, as it already includes all fixes from this mod.
 
