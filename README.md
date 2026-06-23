@@ -10,6 +10,6 @@ This mod fixes various Hungarian text issues in Spore.
 
 If you want both fixes, use **Spore_HUN_Money_Fix** instead, as it already includes all fixes from this mod.
 
-This standalone mod is recommended only if you need Hungarian text corrections and do not need the additional features provided by **Spore_HUN_Money_Fix**.
+This standalone mod is recommended if you only need Hungarian text corrections and do not need the additional features provided by **Spore_HUN_Money_Fix**.
 
 ### Mod tested by Roschach96
