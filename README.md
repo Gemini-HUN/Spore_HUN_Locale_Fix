@@ -4,6 +4,9 @@
 
 This mod fixes various Hungarian text issues in Spore.
 
+## How to install mods?
+I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
+
 ## Not compatible with:
 
 * [Spore_HUN_Money_Fix](https://github.com/Gemini-HUN/Spore_HUN_Money_Fix)
