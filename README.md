@@ -15,4 +15,4 @@ If you want both fixes, use **Spore_HUN_Money_Fix** instead, as it already inclu
 
 This standalone mod is recommended if you only need Hungarian text corrections and do not need the additional features provided by **Spore_HUN_Money_Fix**.
 
-### Mod tested by @Roschach96
+### Mod tested by Roschach96
